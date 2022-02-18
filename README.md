@@ -16,6 +16,6 @@
 
 # git clone https://github.com/love-sohail/without-login
 
-cd without-login
+# cd without-login
 
-python2 SSK.py
+# python2 SSK.py
